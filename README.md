@@ -1,2 +1,2 @@
 # deep??
-new dok
+new dok  .
